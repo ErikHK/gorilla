@@ -23,11 +23,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.3535534"
-     inkscape:cx="146.30912"
-     inkscape:cy="-3367.6681"
+     inkscape:zoom="0.25000001"
+     inkscape:cx="997.33785"
+     inkscape:cy="-3105.6086"
      inkscape:document-units="px"
-     inkscape:current-layer="g5206"
+     inkscape:current-layer="g4996"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="987"
@@ -5633,6 +5633,24 @@
              style="fill:#ffcbaa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         </g>
       </g>
+      <circle
+         id="circle5044-1"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         cx="-539.91083"
+         cy="-262.78629"
+         r="31.550613"
+         inkscape:export-filename="C:\Users\erikhk\skapelser\gorilla\katt1_kroppsdelar\pupil.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
+      <circle
+         r="9.4787798"
+         cy="-265.05899"
+         cx="-536.12274"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle5052-1"
+         inkscape:export-filename="C:\Users\erikhk\skapelser\gorilla\katt1_kroppsdelar\pupil.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200" />
     </g>
     <g
        id="g5206"
@@ -5895,7 +5913,10 @@
       </g>
       <g
          id="g7346"
-         transform="translate(561.9032,45.828838)">
+         transform="translate(561.9032,45.828838)"
+         inkscape:export-filename="C:\Users\erikhk\skapelser\gorilla\katt1_kroppsdelar\hindleg.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200">
         <path
            id="path7320"
            d="m -19.799724,4596.3813 c -29.639139,3.344 -53.42461,28.2249 -52.283052,62.4622 3.970173,119.0723 46.209729,242.4104 46.209729,242.4104 l 88.388672,-6.3633 -10.605469,-188.7988 C 39.75855,4655.8116 33.357851,4590.384 -19.799724,4596.3813 Z"
@@ -5915,13 +5936,16 @@
       </g>
       <g
          transform="translate(989.57381,684.92934)"
-         id="g7350">
+         id="g7350"
+         inkscape:export-filename="C:\Users\erikhk\skapelser\gorilla\katt1_kroppsdelar\frontleg.png"
+         inkscape:export-xdpi="200"
+         inkscape:export-ydpi="200">
         <path
            inkscape:export-ydpi="200"
            inkscape:export-xdpi="200"
            inkscape:export-filename="C:\Users\erikhk\skapelser\gorilla\katt1_kroppsdelar\frontleg.png"
            style="fill:#dfcb41;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m -146.41508,800.8601 c 12.72792,53.76009 34.62742,114.6392 22.62742,330.6392 l -97.6518,4.5294 -7,-329.12958 z"
+           d="m -146.41508,800.8601 c 12.72792,53.76009 34.62742,114.6392 22.62742,330.6392 l -81.89444,7.8327 -22.75736,-332.43288 z"
            id="path5214"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccc" />
@@ -5932,7 +5956,7 @@
            sodipodi:nodetypes="sss"
            inkscape:connector-curvature="0"
            id="path5216"
-           d="m -228.18925,1138.051 c 63.15021,-43.7841 145.500003,-31.5 122.5,3.5 -23,35 -145.56896,12.4945 -122.5,-3.5 z"
+           d="m -207.47887,1138.051 c 45.81501,-43.7841 105.55919,-31.5 88.87286,3.5 -16.68634,35 -105.60923,12.4945 -88.87286,-3.5 z"
            style="fill:#fff19a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       </g>
     </g>
